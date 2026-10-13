@@ -1,6 +1,6 @@
 # ROS 2 Lab Exercises for Mobile Robotics
 
-A set of four new ROS 2 (Kilted) lab exercises for the Mobile Robotics course: workspaces and packages, publishers and subscribers, LiDAR processing with TF frames, and 2D/3D mapping with SLAM Toolbox and OctoMap on a simulated TurtleBot3. I wrote the lab handouts and the accompanying example and solution packages. The final versions published on the course website were reviewed and edited by the course's teaching assistant.
+A set of four new ROS 2 (Kilted) lab exercises for the Mobile Robotics course: workspaces and packages, publishers and subscribers, LiDAR processing with TF frames, and 2D/3D mapping with SLAM Toolbox and OctoMap on a simulated TurtleBot3. I wrote the lab handouts and the accompanying example and solution packages. The final versions published on the course website were reviewed and edited by the course's teaching assistant Tarik Pozderac.
 
 > **Note:** Apart from this summary, everything in this project is written in Bosnian: the rest of this README, the source code, the comments and the technical documentation.
 
@@ -104,3 +104,4 @@ Detaljan postupak, očekivani ispisi i zadaci za studente nalaze se u PDF uputam
 - **Autorica uputa i koda:** Berina Biberović
 - **Predmet:** Mobilna robotika, Elektrotehnički fakultet, Univerzitet u Sarajevu
 - **Predmetni profesor:** prof. dr Jasmin Velagić
+- **Predmetni asistent:** Tarik Pozderac
